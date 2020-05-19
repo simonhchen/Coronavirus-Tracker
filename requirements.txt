@@ -1,5 +1,6 @@
-psycopg2
 sqlalchemy
 pandas
 bs4
 plotly
+matplotlib.pyplot
+seaborn
