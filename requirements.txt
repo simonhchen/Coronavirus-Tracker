@@ -2,7 +2,7 @@ sqlalchemy
 pandas
 bs4
 plotly
-matplotlib.pyplot
+matplotlib
 seaborn
 
 flask
