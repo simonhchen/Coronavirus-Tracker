@@ -1,4 +1,5 @@
 /.idea
 /.ipynb_checkpoints
 /OLD
-covid.db
+OLD/covid.db
+Coronavirus-NY-Times-Data.pdf
