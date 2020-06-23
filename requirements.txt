@@ -4,3 +4,9 @@ bs4
 plotly
 matplotlib.pyplot
 seaborn
+
+flask
+dash
+dash-table
+dash_core_components
+dash_html_components
